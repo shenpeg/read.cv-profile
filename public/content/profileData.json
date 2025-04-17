@@ -1,0 +1,500 @@
+{
+  "general": {
+    "profilePhoto": "/content/media/profilePhoto.jpg",
+    "username": "p.s",
+    "displayName": "Peggy Shen",
+    "profession": null,
+    "location": "📍 CA, PA, WI",
+    "pronouns": "(she/her)",
+    "byline": "📍 CA, PA, WI, (she/her)",
+    "website": "https://peggys.work",
+    "websiteURL": "https://peggys.work",
+    "about": "Artist-designer-student working with interfaces, creative technology, and data.",
+    "status": {
+      "text": null,
+      "emoji": null,
+      "timestamp": null
+    },
+    "sectionOrder": [
+      "Work Experience",
+      "Education",
+      "Projects",
+      "Side Projects",
+      "Exhibitions",
+      "Speaking",
+      "Writing",
+      "Awards",
+      "Features",
+      "Volunteering",
+      "Certifications",
+      "Contact",
+      "Teams"
+    ]
+  },
+  "projects": [
+    {
+      "id": "nT4zjc7ksfMEENltacai",
+      "year": "2023",
+      "heading": "Cafe23 Website",
+      "url": "https://github.com/shenpeg/Cafe23-Website",
+      "collaborators": [],
+      "description": "I developed a Ruby-based web application for managing internal employee operations at a café. The system was built with a strong emphasis on the MVC (Model-View-Controller) structure and ensuring security measures to grant appropriate access levels for different user types.",
+      "attachments": [
+        {
+          "type": "image",
+          "width": 598,
+          "height": 390,
+          "url": "/content/media/Cafe23-Website.gif"
+        }
+      ],
+      "type": "project",
+      "title": "Cafe23 Website",
+      "company": null
+    },
+    {
+      "id": "PHAfkjrZBh7xOIMA4BaC",
+      "year": "2023",
+      "heading": "STREET TYPER",
+      "url": "https://vey.itch.io/street-typer",
+      "collaborators": [],
+      "description": "I produced a two-player competitive typing video game inspired by arcade, ASCII, and terminal. My role as producer involved leading the creative direction and overseeing project development of the game.",
+      "attachments": [
+        {
+          "type": "image",
+          "width": 511,
+          "height": 405,
+          "url": "/content/media/STREET-TYPER.gif"
+        }
+      ],
+      "type": "project",
+      "title": "STREET TYPER",
+      "company": null
+    },
+    {
+      "id": "2QwWuTFJ0cBtZ60bm8Lh",
+      "year": "2021",
+      "heading": "Duquesne Incline Web Development",
+      "url": "https://github.com/shenpeg/DuquesneIncline",
+      "collaborators": [],
+      "description": "I designed and developed a fully-responsive website for Pittsburgh's Duquesne Incline to learn HTML/CSS/Javascript. User stories, wireframes, and user testing was done to clarify site navigation.",
+      "attachments": [],
+      "type": "project",
+      "title": "Duquesne Incline Web Development",
+      "company": null
+    }
+  ],
+  "sideProjects": [
+    {
+      "id": "zl84pNZ6QUDKeUGaAnrc",
+      "year": "Ongoing",
+      "heading": "VEYANE",
+      "url": "https://www.instagram.com/vey4ne/",
+      "collaborators": [],
+      "description": "An explorative vessel to play with the pseudo-anonymity of internet identity. I'm nurturing my childhood memories, anime-inspired fantasies, and nostalgic ideals with amalgamation doodles, stream-of-consciousness illustrations, and formal drawing studies on Instagram.",
+      "attachments": [],
+      "type": "sideProject",
+      "title": "VEYANE",
+      "company": null
+    },
+    {
+      "id": "Ctw7rPIoBDlSzqMvOIb0",
+      "year": "2022",
+      "heading": "rabbit on a journey 🐇",
+      "url": "https://rabbitonajourney.tumblr.com/",
+      "collaborators": [],
+      "description": "A website journey + video homage to ASCII art and how the internet draws boundaries between reality and fantasy.",
+      "attachments": [],
+      "type": "sideProject",
+      "title": "rabbit on a journey 🐇",
+      "company": null
+    }
+  ],
+  "exhibitions": [],
+  "talks": [],
+  "writing": [
+    {
+      "id": "Bc6Q3Nv4fGD6bKeOWpAV",
+      "year": "2022",
+      "heading": "Communcation Design Processes, Medium",
+      "url": "https://medium.com/@peggyyshen",
+      "collaborators": [],
+      "description": "A few articles that offer a glimpse into my design process/thinking and provide a bit of documentation on the steps involved in bringing a design from concept to fruition. Staying transparent and practicing articulation :-)",
+      "attachments": [],
+      "type": "writing",
+      "title": "Communcation Design Processes",
+      "publisher": "Medium"
+    }
+  ],
+  "awards": [
+    {
+      "id": "BcvqYtD2GpSzttK0Mj9j",
+      "year": "2023",
+      "heading": "Dean's List 2020-2023 from CMU BXA Program",
+      "url": null,
+      "collaborators": [],
+      "description": null,
+      "attachments": [],
+      "type": "award",
+      "title": "Dean's List 2020-2023",
+      "presenter": "CMU BXA Program"
+    },
+    {
+      "id": "foo4kg7bgXEfdXGZgDaa",
+      "year": "2022",
+      "heading": "Anne Ophelia Dowden Award from CMU School of Art",
+      "url": "http://www.art.cmu.edu/news/school/art-awards-2022/",
+      "collaborators": [],
+      "description": null,
+      "attachments": [],
+      "type": "award",
+      "title": "Anne Ophelia Dowden Award",
+      "presenter": "CMU School of Art"
+    },
+    {
+      "id": "Pjcr6Yingj7hPOw2sqj4",
+      "year": "2020",
+      "heading": "Pieter C. Vink Scholarship Recipient from Philips Electronic Scholarship Foundation",
+      "url": null,
+      "collaborators": [],
+      "description": null,
+      "attachments": [],
+      "type": "award",
+      "title": "Pieter C. Vink Scholarship Recipient",
+      "presenter": "Philips Electronic Scholarship Foundation"
+    }
+  ],
+  "features": [],
+  "workExperience": [
+    {
+      "id": "ovyBwol8YMFQujMNo3QD",
+      "year": "2023 — Now",
+      "heading": "Co-Director of Public Relations at Lunar Gala",
+      "url": "https://www.lunargala.org/",
+      "collaborators": [],
+      "description": "I'm co-leading the digital marketing team for Pittsburgh’s largest annual fashion show with 1,000+ attendees.",
+      "attachments": [],
+      "type": "workExperience",
+      "title": "Co-Director of Public Relations",
+      "company": "Lunar Gala",
+      "location": "Pittsburgh, PA"
+    },
+    {
+      "id": "rRUTr7pyZrg6esdcz0c7",
+      "year": "2023 — 2023",
+      "heading": "Creative Assistant at Iris Lunar Rover",
+      "url": "https://irislunarrover.space",
+      "collaborators": [],
+      "description": "I'm designing media and creative assets for Iris marketing, merchandise, and outreach. Iris Rover will be the first academic rover to explore the moon in 2023 — paving the way for lightweight alternatives to space exploration. 🌙",
+      "attachments": [
+        {
+          "type": "image",
+          "width": 2200,
+          "height": 1467,
+          "url": "/content/media/Creative-Assistant-at-Iris-Lunar-Rover.jpg"
+        }
+      ],
+      "type": "workExperience",
+      "title": "Creative Assistant",
+      "company": "Iris Lunar Rover",
+      "location": "Pittsburgh, PA"
+    },
+    {
+      "id": "PImsrhffyGzM29j5Eigf",
+      "year": "2022 — 2022",
+      "heading": "Corporate Marketing Intern at XiFin, Inc.",
+      "url": "https://www.xifin.com",
+      "collaborators": [],
+      "description": "I customized webinar/presentation decks and UI/UX graphics across content networks to optimize branding, and integrated digital asset management systems with internal platforms. This involved designing team-specific dashboards, transferring 200+ assets, and simplifying metadata taxonomy.",
+      "attachments": [],
+      "type": "workExperience",
+      "title": "Corporate Marketing Intern",
+      "company": "XiFin, Inc.",
+      "location": "San Diego, CA"
+    }
+  ],
+  "volunteering": [],
+  "education": [
+    {
+      "id": "xKuwkzrXFeZq5uhP8DDz",
+      "year": "2020 — Now",
+      "heading": "Bachelor of Humanities & Art (BHA) in Information Systems and Art at Carnegie Mellon University",
+      "url": null,
+      "collaborators": [],
+      "description": "Concentrating in UI/UX and Electronic/Time-Based Media. Minor in Human-Computer Interaction (HCI).",
+      "attachments": [],
+      "type": "education",
+      "degree": "Bachelor of Humanities & Art (BHA) in Information Systems and Art",
+      "school": "Carnegie Mellon University",
+      "location": "Pittsburgh, PA"
+    }
+  ],
+  "certifications": [],
+  "contact": [
+    {
+      "id": "XsjDjumtLYGtSOPYUJPj",
+      "platform": "LinkedIn",
+      "handle": "peggyshen",
+      "url": "https://linkedin.com/in/peggyshen"
+    },
+    {
+      "id": "GYh0nnix2Krq9LjBJLBP",
+      "platform": "Email",
+      "handle": "peggyshen4@gmail.com",
+      "url": "mailto:peggyshen4@gmail.com"
+    },
+    {
+      "id": "yGdB2iuUSzmWZucq29dV",
+      "platform": "GitHub",
+      "handle": "shenpeg",
+      "url": "https://github.com/shenpeg"
+    },
+    {
+      "id": "sVWbPACViCI3h4gFlLfG",
+      "platform": "Itch",
+      "handle": "vey",
+      "url": "https://vey.itch.io/"
+    }
+  ],
+  "allCollections": [
+    {
+      "name": "Work Experience",
+      "items": [
+        {
+          "id": "ovyBwol8YMFQujMNo3QD",
+          "year": "2023 — Now",
+          "heading": "Co-Director of Public Relations at Lunar Gala",
+          "url": "https://www.lunargala.org/",
+          "collaborators": [],
+          "description": "I'm co-leading the digital marketing team for Pittsburgh’s largest annual fashion show with 1,000+ attendees.",
+          "attachments": [],
+          "type": "workExperience",
+          "title": "Co-Director of Public Relations",
+          "company": "Lunar Gala",
+          "location": "Pittsburgh, PA"
+        },
+        {
+          "id": "rRUTr7pyZrg6esdcz0c7",
+          "year": "2023 — 2023",
+          "heading": "Creative Assistant at Iris Lunar Rover",
+          "url": "https://irislunarrover.space",
+          "collaborators": [],
+          "description": "I'm designing media and creative assets for Iris marketing, merchandise, and outreach. Iris Rover will be the first academic rover to explore the moon in 2023 — paving the way for lightweight alternatives to space exploration. 🌙",
+          "attachments": [
+            {
+              "type": "image",
+              "width": 2200,
+              "height": 1467,
+              "url": "/content/media/Creative-Assistant-at-Iris-Lunar-Rover.jpg"
+            }
+          ],
+          "type": "workExperience",
+          "title": "Creative Assistant",
+          "company": "Iris Lunar Rover",
+          "location": "Pittsburgh, PA"
+        },
+        {
+          "id": "PImsrhffyGzM29j5Eigf",
+          "year": "2022 — 2022",
+          "heading": "Corporate Marketing Intern at XiFin, Inc.",
+          "url": "https://www.xifin.com",
+          "collaborators": [],
+          "description": "I customized webinar/presentation decks and UI/UX graphics across content networks to optimize branding, and integrated digital asset management systems with internal platforms. This involved designing team-specific dashboards, transferring 200+ assets, and simplifying metadata taxonomy.",
+          "attachments": [],
+          "type": "workExperience",
+          "title": "Corporate Marketing Intern",
+          "company": "XiFin, Inc.",
+          "location": "San Diego, CA"
+        }
+      ]
+    },
+    {
+      "name": "Education",
+      "items": [
+        {
+          "id": "xKuwkzrXFeZq5uhP8DDz",
+          "year": "2020 — Now",
+          "heading": "Bachelor of Humanities & Art (BHA) in Information Systems and Art at Carnegie Mellon University",
+          "url": null,
+          "collaborators": [],
+          "description": "Concentrating in UI/UX and Electronic/Time-Based Media. Minor in Human-Computer Interaction (HCI).",
+          "attachments": [],
+          "type": "education",
+          "degree": "Bachelor of Humanities & Art (BHA) in Information Systems and Art",
+          "school": "Carnegie Mellon University",
+          "location": "Pittsburgh, PA"
+        }
+      ]
+    },
+    {
+      "name": "Projects",
+      "items": [
+        {
+          "id": "nT4zjc7ksfMEENltacai",
+          "year": "2023",
+          "heading": "Cafe23 Website",
+          "url": "https://github.com/shenpeg/Cafe23-Website",
+          "collaborators": [],
+          "description": "I developed a Ruby-based web application for managing internal employee operations at a café. The system was built with a strong emphasis on the MVC (Model-View-Controller) structure and ensuring security measures to grant appropriate access levels for different user types.",
+          "attachments": [
+            {
+              "type": "image",
+              "width": 598,
+              "height": 390,
+              "url": "/content/media/Cafe23-Website.gif"
+            }
+          ],
+          "type": "project",
+          "title": "Cafe23 Website",
+          "company": null
+        },
+        {
+          "id": "PHAfkjrZBh7xOIMA4BaC",
+          "year": "2023",
+          "heading": "STREET TYPER",
+          "url": "https://vey.itch.io/street-typer",
+          "collaborators": [],
+          "description": "I produced a two-player competitive typing video game inspired by arcade, ASCII, and terminal. My role as producer involved leading the creative direction and overseeing project development of the game.",
+          "attachments": [
+            {
+              "type": "image",
+              "width": 511,
+              "height": 405,
+              "url": "/content/media/STREET-TYPER.gif"
+            }
+          ],
+          "type": "project",
+          "title": "STREET TYPER",
+          "company": null
+        },
+        {
+          "id": "2QwWuTFJ0cBtZ60bm8Lh",
+          "year": "2021",
+          "heading": "Duquesne Incline Web Development",
+          "url": "https://github.com/shenpeg/DuquesneIncline",
+          "collaborators": [],
+          "description": "I designed and developed a fully-responsive website for Pittsburgh's Duquesne Incline to learn HTML/CSS/Javascript. User stories, wireframes, and user testing was done to clarify site navigation.",
+          "attachments": [],
+          "type": "project",
+          "title": "Duquesne Incline Web Development",
+          "company": null
+        }
+      ]
+    },
+    {
+      "name": "Side Projects",
+      "items": [
+        {
+          "id": "zl84pNZ6QUDKeUGaAnrc",
+          "year": "Ongoing",
+          "heading": "VEYANE",
+          "url": "https://www.instagram.com/vey4ne/",
+          "collaborators": [],
+          "description": "An explorative vessel to play with the pseudo-anonymity of internet identity. I'm nurturing my childhood memories, anime-inspired fantasies, and nostalgic ideals with amalgamation doodles, stream-of-consciousness illustrations, and formal drawing studies on Instagram.",
+          "attachments": [],
+          "type": "sideProject",
+          "title": "VEYANE",
+          "company": null
+        },
+        {
+          "id": "Ctw7rPIoBDlSzqMvOIb0",
+          "year": "2022",
+          "heading": "rabbit on a journey 🐇",
+          "url": "https://rabbitonajourney.tumblr.com/",
+          "collaborators": [],
+          "description": "A website journey + video homage to ASCII art and how the internet draws boundaries between reality and fantasy.",
+          "attachments": [],
+          "type": "sideProject",
+          "title": "rabbit on a journey 🐇",
+          "company": null
+        }
+      ]
+    },
+    {
+      "name": "Writing",
+      "items": [
+        {
+          "id": "Bc6Q3Nv4fGD6bKeOWpAV",
+          "year": "2022",
+          "heading": "Communcation Design Processes, Medium",
+          "url": "https://medium.com/@peggyyshen",
+          "collaborators": [],
+          "description": "A few articles that offer a glimpse into my design process/thinking and provide a bit of documentation on the steps involved in bringing a design from concept to fruition. Staying transparent and practicing articulation :-)",
+          "attachments": [],
+          "type": "writing",
+          "title": "Communcation Design Processes",
+          "publisher": "Medium"
+        }
+      ]
+    },
+    {
+      "name": "Awards",
+      "items": [
+        {
+          "id": "BcvqYtD2GpSzttK0Mj9j",
+          "year": "2023",
+          "heading": "Dean's List 2020-2023 from CMU BXA Program",
+          "url": null,
+          "collaborators": [],
+          "description": null,
+          "attachments": [],
+          "type": "award",
+          "title": "Dean's List 2020-2023",
+          "presenter": "CMU BXA Program"
+        },
+        {
+          "id": "foo4kg7bgXEfdXGZgDaa",
+          "year": "2022",
+          "heading": "Anne Ophelia Dowden Award from CMU School of Art",
+          "url": "http://www.art.cmu.edu/news/school/art-awards-2022/",
+          "collaborators": [],
+          "description": null,
+          "attachments": [],
+          "type": "award",
+          "title": "Anne Ophelia Dowden Award",
+          "presenter": "CMU School of Art"
+        },
+        {
+          "id": "Pjcr6Yingj7hPOw2sqj4",
+          "year": "2020",
+          "heading": "Pieter C. Vink Scholarship Recipient from Philips Electronic Scholarship Foundation",
+          "url": null,
+          "collaborators": [],
+          "description": null,
+          "attachments": [],
+          "type": "award",
+          "title": "Pieter C. Vink Scholarship Recipient",
+          "presenter": "Philips Electronic Scholarship Foundation"
+        }
+      ]
+    },
+    {
+      "name": "Contact",
+      "items": [
+        {
+          "id": "XsjDjumtLYGtSOPYUJPj",
+          "platform": "LinkedIn",
+          "handle": "peggyshen",
+          "url": "https://linkedin.com/in/peggyshen"
+        },
+        {
+          "id": "GYh0nnix2Krq9LjBJLBP",
+          "platform": "Email",
+          "handle": "peggyshen4@gmail.com",
+          "url": "mailto:peggyshen4@gmail.com"
+        },
+        {
+          "id": "yGdB2iuUSzmWZucq29dV",
+          "platform": "GitHub",
+          "handle": "shenpeg",
+          "url": "https://github.com/shenpeg"
+        },
+        {
+          "id": "sVWbPACViCI3h4gFlLfG",
+          "platform": "Itch",
+          "handle": "vey",
+          "url": "https://vey.itch.io/"
+        }
+      ]
+    }
+  ]
+}
